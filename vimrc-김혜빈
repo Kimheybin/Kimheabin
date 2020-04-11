@@ -1,0 +1,11 @@
+syntax on                                                                  color torte 
+
+set encoding=utf-8 " 터미널의 인코딩을 utf-8로 설정
+set guifont=D2Conding:16 " D2 Coding 글꼴로 설정
+set nobackup " 백업 파일을 만들지 않게 설정
+set autoindent " 자동 들여쓰기 활성화 설정
+set noswapfile " 스왑 파일을 만들지 않게 설정
+set expandtab " 스페이스키가 Tap기능(건너뛰는 기능)을 대신할 수 있게 설정
+set incsearch " 찾기를 수행할 때 입력하면서 바로 찾기
+set background=dark " 문법강조에서 좀 더 밝은 글자 색을 사용
+
